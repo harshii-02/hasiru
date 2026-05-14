@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841623231287",
+    "project_id": "hasiru-495307",
+    "storage_bucket": "hasiru-495307.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841623231287:android:c489063042ab163f0ed8b2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_nkeGpahE-VtBtHP0vQAMDdXCquJZgxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
