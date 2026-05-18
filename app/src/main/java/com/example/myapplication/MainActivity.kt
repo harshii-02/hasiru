@@ -17,7 +17,7 @@ enum class AppScreen { MAP, CHAT, CAMERA, GUIDE }
 
 class MainActivity : ComponentActivity() {
     // Replace with your actual Gemini API key
-    private val geminiApiKey = "AIzaSyBHK5JKx7cFqSnvG2sAM6ISozk5jAV-B8k"
+    private val geminiApiKey = " "
     private val generativeAIModel by lazy { GenerativeAIModel(geminiApiKey) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
